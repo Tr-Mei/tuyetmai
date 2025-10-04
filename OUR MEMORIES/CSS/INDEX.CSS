@@ -1,0 +1,118 @@
+.tong {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background-color: #ead7a4;
+  position: relative;
+  font-family: "Playfair Display", cursive;
+  font-size: 30px;
+}
+.menu {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+}
+.hai button {
+  font-size: 30px;
+  width: 200px;
+  height: 50px;
+  border: 1px solid rgb(207, 131, 39);
+  border-radius: 15px;
+  background: rgb(207, 131, 39);
+  color: #fff;
+}
+a {
+  color: rgb(82, 55, 16);
+  text-decoration: none;
+}
+.tren {
+  width: 100%;
+  height: 600px;
+}
+.tren img {
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  position: absolute;
+  top: 100px;
+}
+.tren p {
+  font-size: 20px;
+  position: absolute;
+  top: 300px;
+}
+.tren button {
+  font-size: 20px;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: #d35400; /* Pumpkin */
+  color: #fff;
+  border: 1px solid #d35400;
+}
+.tren .nut {
+  position: absolute;
+  top: 390px;
+  left: 250px;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 100px; /* khoảng cách giữa 2 nút */
+}
+.giua1 {
+  width: 100%;
+  height: 50px;
+  padding: 0 10px;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  text-align: center;
+}
+.giua2 {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: space-around;
+}
+.giua2 img {
+  height: 200px;
+  width: 100%;
+}
+a:hover {
+  color: crimson;
+}
+.duoi {
+  text-align: center;
+}
+.duoi button {
+  font-size: 30px;
+  width: 300px;
+  height: 50px;
+  border-radius: 15px;
+  background: rgb(207, 131, 39);
+  color: #fff;
+  border: 1px solid rgb(207, 131, 39);
+}
+.cuoi img {
+  width: 90px;
+  height: 70px;
+}
+.cuoi {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.cuoi p {
+  font-size: 20px;
+}
+.cum {
+  display: flex;
+  justify-content: space-between;
+}
